@@ -1,0 +1,64 @@
+# Rime user dictionary
+#@/db_name	easy_en.userdb
+#@/db_type	userdb
+#@/rime_version	1.2.9
+#@/tick	96
+#@/user_id	81bf718c-31d1-4575-8c56-55f3655d21e4
+all 	all	c=1 d=1 t=34
+an 	an	c=1 d=0.937067 t=96
+and 	and	c=1 d=1 t=20
+apple 	apple	c=1 d=1 t=85
+are 	are	c=1 d=1 t=41
+be 	be	c=2 d=1.86936 t=92
+beds 	beds	c=1 d=1 t=25
+being 	being	c=1 d=0.970446 t=96
+beta 	beta	c=1 d=1 t=54
+build 	build	c=1 d=1 t=84
+business 	business	c=1 d=1 t=30
+can 	can	c=1 d=0.985112 t=96
+case 	case	c=1 d=1 t=15
+change 	change	c=1 d=1 t=32
+code 	code	c=1 d=1 t=32
+correction 	correction	c=2 d=1.95581 t=96
+deny 	deny	c=3 d=2.9178 t=65
+each 	each	c=1 d=1 t=19
+for 	for	c=1 d=1 t=36
+giant 	giant	c=2 d=1.94176 t=83
+guide 	guide	c=1 d=1 t=22
+has 	has	c=1 d=0.980199 t=96
+hide 	hide	c=1 d=1 t=61
+how 	how	c=1 d=1 t=78
+idea 	idea	c=21 d=16.7974 t=94
+if 	if	c=2 d=1.93239 t=53
+imply 	imply	c=1 d=1 t=93
+in 	in	c=4 d=3.7556 t=89
+initial 	initial	c=1 d=1 t=91
+is 	is	c=1 d=1 t=42
+keith 	keith	c=3 d=2.63754 t=75
+liability 	liability	c=1 d=1 t=62
+like 	like	c=1 d=1 t=51
+list 	list	c=1 d=1 t=27
+long 	long	c=1 d=1 t=79
+made 	made	c=1 d=1 t=82
+mail 	mail	c=1 d=1 t=96
+map 	map	c=1 d=0.960789 t=96
+marking 	marking	c=1 d=1 t=78
+name 	name	c=1 d=0.951229 t=96
+new 	new	c=1 d=0.946485 t=96
+of 	of	c=1 d=0.955997 t=96
+on 	on	c=1 d=1 t=76
+our 	our	c=1 d=1 t=66
+page 	page	c=1 d=1 t=68
+read 	read	c=1 d=1 t=56
+see 	see	c=1 d=1 t=44
+should 	should	c=1 d=1 t=21
+the 	the	c=1 d=1 t=71
+this 	this	c=2 d=1.81465 t=96
+to 	to	c=1 d=0.99005 t=96
+up 	up	c=2 d=1.93707 t=90
+us 	us	c=1 d=1 t=88
+user 	user	c=1 d=1 t=95
+we 	we	c=1 d=1 t=18
+what 	what	c=1 d=1 t=55
+with 	with	c=1 d=1 t=73
+you 	you	c=1 d=0.965605 t=96
